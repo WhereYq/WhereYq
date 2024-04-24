@@ -38,12 +38,12 @@
  
  ![DISCORD](https://discord.c99.nl/widget/theme-2/527821864094138378.png)
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
+
 
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
- > Made by syrins dev - README.md v.2.3
+ > Made by whereyq - README.md v.2.3
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
