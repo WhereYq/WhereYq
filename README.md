@@ -34,9 +34,9 @@
  
  > ### 🎈 Socials 
  
- | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https://syrins.byte-breaker.com) | 🐦 [Twitter](https://twitter.com/Syrins) |
+ | 🐻 [Team]() | 🐴 [Portfolio]() | 🐦 [Twitter]() |
  
- ![DISCORD](https://discord.c99.nl/widget/theme-1/935959975698788392.png)
+ ![DISCORD](https://discord.c99.nl/widget/theme-2/527821864094138378.png)
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
 
