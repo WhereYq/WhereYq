@@ -7,7 +7,7 @@
 
 
 > ### ⚙️ Mastered languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;php,;html-css,;c#;c++)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=500&color=F78202&random=true&width=435&lines=C%2B%2B;C%23;NextJS;PHP;Python+-+RPi)](https://git.io/typing-svg))](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
