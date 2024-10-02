@@ -36,7 +36,7 @@
  
  | 🐻 [Team]() | 🐴 [Portfolio]() | 🐦 [Twitter]() |
  
- ![DISCORD]([[https://discord.c99.nl/widget/theme-2/527821864094138378.png]](https://discord.c99.nl/widget/theme-1/527821864094138378.png))
+ ![DISCORD](https://discord.c99.nl/widget/theme-1/527821864094138378.png)
  
 
 
